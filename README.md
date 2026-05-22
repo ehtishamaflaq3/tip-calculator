@@ -47,6 +47,10 @@ All calculations update live as the user types — no calculate button required.
 
 ---
 
+# Check Now
+
+https://ehtishamaflaq3.github.io/tip-calculator/
+
 # Author
 
 Developed by Ehtisham Aflaq
