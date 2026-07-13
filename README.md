@@ -14,8 +14,7 @@ All calculations update live as the user types — no calculate button required.
 # Features
 
  Live real-time calculations  
- Preset tip percentage buttons  
- Custom tip percentage input  
+ Preset tip percentage buttons   
  Inline validation messages  
  Responsive mobile-friendly design  
  Reset button  
