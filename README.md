@@ -9,8 +9,6 @@ The app calculates:
 
 All calculations update live as the user types — no calculate button required.
 
----
-
 # Features
 
  Live real-time calculations  
