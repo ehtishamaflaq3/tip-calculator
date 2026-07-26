@@ -26,8 +26,6 @@ All calculations update live as the user types — no calculate button required.
 - CSS3
 - JavaScript (Vanilla JS)
 
----
-
 # Future Improvements
 
 - Dark/Light theme toggle
