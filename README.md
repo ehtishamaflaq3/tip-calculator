@@ -18,8 +18,6 @@ All calculations update live as the user types — no calculate button required.
  Reset button  
  Clean UI and smooth interaction  
 
----
-
 # Technologies Used
 
 - HTML5
