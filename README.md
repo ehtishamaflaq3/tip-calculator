@@ -40,8 +40,6 @@ All calculations update live as the user types — no calculate button required.
 
 <img width="591" height="773" alt="image" src="https://github.com/user-attachments/assets/3d801989-8d8f-4cf6-b285-8670657b1e6d" />
 
----
-
 # Check Now
 
 https://ehtishamaflaq3.github.io/tip-calculator/
