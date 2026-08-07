@@ -1,13 +1,13 @@
 # Tip Calculator / Bill Splitter
 
-A responsive and interactive Tip Calculator web app built using Vanilla HTML, CSS, and JavaScript.
+A responsive and interactive Tip Calculator web app built using Vanilla HTML, CSS, and JavaScript
 
 The app calculates:
 - Total Tip Amount
 - Grand Total (Bill + Tip)
 - Per Person Share
 
-All calculations update live as the user types — no calculate button required.
+All calculations update live as the user types — no calculate button required
 
 # Features
 
